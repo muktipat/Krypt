@@ -1,5 +1,3 @@
-Here's a professional GitHub repository description for your Web3 Blockchain App (Krypt):
-
 ```markdown
 # Krypt - Web3 Blockchain Transaction Platform 🌐🔗
 
